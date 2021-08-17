@@ -1,2 +1,3 @@
-# Geog-364-2021
-Lab book for 2021 Geog 364
+# Template for my lab courses
+This was edited with permission from https://github.com/crd150/rmarkdown-website-template
+who themselves forked from the template  privefl/rmarkdown-website-template
